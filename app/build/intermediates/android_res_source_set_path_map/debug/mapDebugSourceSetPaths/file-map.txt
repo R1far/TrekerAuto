@@ -1,0 +1,9 @@
+com.example.trekerautoapp-pngs-0 C:\Users\Rifar\AndroidStudioProjects\TrekerAutoApp\app\build\generated\res\pngs\debug
+com.example.trekerautoapp-res-1 C:\Users\Rifar\AndroidStudioProjects\TrekerAutoApp\app\build\generated\res\processDebugGoogleServices
+com.example.trekerautoapp-updated_navigation_xml-2 C:\Users\Rifar\AndroidStudioProjects\TrekerAutoApp\app\build\generated\updated_navigation_xml\debug
+com.example.trekerautoapp-packageDebugResources-3 C:\Users\Rifar\AndroidStudioProjects\TrekerAutoApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.trekerautoapp-packageDebugResources-4 C:\Users\Rifar\AndroidStudioProjects\TrekerAutoApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.trekerautoapp-debug-5 C:\Users\Rifar\AndroidStudioProjects\TrekerAutoApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.trekerautoapp-debug-6 C:\Users\Rifar\AndroidStudioProjects\TrekerAutoApp\app\src\debug\res
+com.example.trekerautoapp-main-7 C:\Users\Rifar\AndroidStudioProjects\TrekerAutoApp\app\src\main\res
+gradleHome-0 C:\Users\Rifar\.gradle

@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.TrekerAutoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/home_primary</item>
+        <item name="colorOnPrimary">@color/home_text_inverse</item>
+        <item name="colorSecondary">@color/home_accent</item>
+        <item name="colorSurface">@color/home_surface</item>
+        <item name="colorOnSurface">@color/home_text_primary</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/home_bg_end</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="Theme.TrekerAutoApp" parent="Base.Theme.TrekerAutoApp" />
+</resources>

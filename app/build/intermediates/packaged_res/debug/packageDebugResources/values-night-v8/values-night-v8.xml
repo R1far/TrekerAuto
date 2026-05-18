@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="auth_accent">#36C5B4</color>
+    <color name="auth_background_end">#111B27</color>
+    <color name="auth_background_start">#0E1722</color>
+    <color name="auth_divider">#2A3C4E</color>
+    <color name="auth_input_background">#1C2A39</color>
+    <color name="auth_link">#8DCCFF</color>
+    <color name="auth_on_primary">#07121D</color>
+    <color name="auth_panel">#F0182635</color>
+    <color name="auth_primary">#6DB8F2</color>
+    <color name="auth_primary_dark">#2E78B2</color>
+    <color name="auth_stroke">#314458</color>
+    <color name="auth_text_primary">#F3F7FA</color>
+    <color name="auth_text_secondary">#A8B5C1</color>
+    <color name="black">#FF000000</color>
+    <color name="home_accent">#36C5B4</color>
+    <color name="home_bg_end">#111B27</color>
+    <color name="home_bg_mid">#122033</color>
+    <color name="home_bg_start">#0E1722</color>
+    <color name="home_danger">#F07878</color>
+    <color name="home_good">#63D394</color>
+    <color name="home_primary">#6DB8F2</color>
+    <color name="home_primary_dark">#2E78B2</color>
+    <color name="home_stroke">#33485D</color>
+    <color name="home_surface">#F0182635</color>
+    <color name="home_surface_soft">#26384A</color>
+    <color name="home_text_inverse">#FFFFFFFF</color>
+    <color name="home_text_primary">#F3F7FA</color>
+    <color name="home_text_secondary">#A8B5C1</color>
+    <color name="home_warning">#F0B65A</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="Base.Theme.TrekerAutoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/home_primary</item>
+        <item name="colorOnPrimary">@color/auth_on_primary</item>
+        <item name="colorSecondary">@color/home_accent</item>
+        <item name="colorSurface">@color/home_surface</item>
+        <item name="colorOnSurface">@color/home_text_primary</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/home_bg_end</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+    <style name="Theme.TrekerAutoApp" parent="Base.Theme.TrekerAutoApp"/>
+</resources>

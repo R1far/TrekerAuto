@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_item_part_card.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\item_part_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_bg_home_summary_card.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\bg_home_summary_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_bg_auth_gradient.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\bg_auth_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_add_car.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_add_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_ic_logout_24.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\ic_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_ic_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\ic_arrow_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_item_service_record.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\item_service_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_bg_home_fab.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\bg_home_fab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_bg_home_card.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\bg_home_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_ic_trash_24.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\ic_trash_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_bg_home_gradient.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\bg_home_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_edit_part.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_edit_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_bg_auth_icon_circle.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\bg_auth_icon_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_delete_car.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_delete_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_add_part.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_add_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_add_service.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_add_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_service_history.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_service_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_bg_auth_panel.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\bg_auth_panel.xml"
+    },
+    {
+        "merged": "com.example.trekerautoapp-debug-51:/layout_activity_add_part.xml.flat",
+        "source": "com.example.trekerautoapp-main-53:/layout/activity_add_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_ic_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\ic_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\drawable_bg_home_chip.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\drawable\\bg_home_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_car_details.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_car_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_reminder_settings.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_reminder_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_item_home_car.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\item_home_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_update_mileage.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_update_mileage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-debug-51:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Rifar\\.gradle\\daemon\\9.4.1\\com.example.trekerautoapp-main-53:\\layout\\activity_main.xml"
+    }
+]

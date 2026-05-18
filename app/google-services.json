@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758318213127",
+    "project_id": "autotraker-9a761",
+    "storage_bucket": "autotraker-9a761.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758318213127:android:25237e3a05caad8c88a2a2",
+        "android_client_info": {
+          "package_name": "com.example.trekerautoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758318213127-73gpqa2jmu56d0v9u9p67o5d2p8lajvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZfBTRlUz8z5bI430b-HnwVfUJxjBGO6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758318213127-73gpqa2jmu56d0v9u9p67o5d2p8lajvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

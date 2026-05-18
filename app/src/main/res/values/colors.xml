@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="auth_primary">#1E6EA8</color>
+    <color name="auth_primary_dark">#124A74</color>
+    <color name="auth_accent">#108D7C</color>
+
+    <color name="auth_background_start">#EEF6F8</color>
+    <color name="auth_background_end">#F8FBF6</color>
+    <color name="auth_panel">#FAFFFFFF</color>
+
+    <color name="auth_text_primary">#172A3A</color>
+    <color name="auth_text_secondary">#607080</color>
+    <color name="auth_on_primary">#FFFFFFFF</color>
+
+    <color name="auth_input_background">#F8FBFA</color>
+    <color name="auth_stroke">#C8D8DD</color>
+    <color name="auth_divider">#DCE7EA</color>
+    <color name="auth_link">#126399</color>
+
+    <color name="home_bg_start">#EEF6F8</color>
+    <color name="home_bg_mid">#E8F2EE</color>
+    <color name="home_bg_end">#FAFBF7</color>
+
+    <color name="home_text_primary">#172A3A</color>
+    <color name="home_text_secondary">#607080</color>
+    <color name="home_text_inverse">#FFFFFFFF</color>
+
+    <color name="home_surface">#FAFFFFFF</color>
+    <color name="home_surface_soft">#EEF5F3</color>
+    <color name="home_stroke">#CADBDD</color>
+
+    <color name="home_primary">#1E6EA8</color>
+    <color name="home_primary_dark">#124A74</color>
+    <color name="home_accent">#108D7C</color>
+
+    <color name="home_good">#247A55</color>
+    <color name="home_warning">#C47A10</color>
+    <color name="home_danger">#C84949</color>
+</resources>

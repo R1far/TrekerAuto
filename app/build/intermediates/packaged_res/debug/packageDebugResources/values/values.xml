@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="part_control_types">
+        <item>Проверить</item>
+        <item>Поменять</item>
+    </string-array>
+    <color name="auth_accent">#108D7C</color>
+    <color name="auth_background_end">#F8FBF6</color>
+    <color name="auth_background_start">#EEF6F8</color>
+    <color name="auth_divider">#DCE7EA</color>
+    <color name="auth_input_background">#F8FBFA</color>
+    <color name="auth_link">#126399</color>
+    <color name="auth_on_primary">#FFFFFFFF</color>
+    <color name="auth_panel">#FAFFFFFF</color>
+    <color name="auth_primary">#1E6EA8</color>
+    <color name="auth_primary_dark">#124A74</color>
+    <color name="auth_stroke">#C8D8DD</color>
+    <color name="auth_text_primary">#172A3A</color>
+    <color name="auth_text_secondary">#607080</color>
+    <color name="black">#FF000000</color>
+    <color name="home_accent">#108D7C</color>
+    <color name="home_bg_end">#FAFBF7</color>
+    <color name="home_bg_mid">#E8F2EE</color>
+    <color name="home_bg_start">#EEF6F8</color>
+    <color name="home_danger">#C84949</color>
+    <color name="home_good">#247A55</color>
+    <color name="home_primary">#1E6EA8</color>
+    <color name="home_primary_dark">#124A74</color>
+    <color name="home_stroke">#CADBDD</color>
+    <color name="home_surface">#FAFFFFFF</color>
+    <color name="home_surface_soft">#EEF5F3</color>
+    <color name="home_text_inverse">#FFFFFFFF</color>
+    <color name="home_text_primary">#172A3A</color>
+    <color name="home_text_secondary">#607080</color>
+    <color name="home_warning">#C47A10</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">TrekerAutoApp</string>
+    <string name="auth_icon_desc">Иконка авторизации</string>
+    <string name="default_web_client_id" translatable="false">758318213127-73gpqa2jmu56d0v9u9p67o5d2p8lajvq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">758318213127</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZfBTRlUz8z5bI430b-HnwVfUJxjBGO6M</string>
+    <string name="google_app_id" translatable="false">1:758318213127:android:25237e3a05caad8c88a2a2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZfBTRlUz8z5bI430b-HnwVfUJxjBGO6M</string>
+    <string name="google_storage_bucket" translatable="false">autotraker-9a761.firebasestorage.app</string>
+    <string name="home_menu_history">History</string>
+    <string name="home_menu_service">Service</string>
+    <string name="login_button">Войти</string>
+    <string name="login_forgot">Забыли пароль?</string>
+    <string name="login_hint_email">Логин или e-mail</string>
+    <string name="login_hint_password">Пароль</string>
+    <string name="login_no_account">Нет аккаунта?</string>
+    <string name="login_register_action">Зарегистрироваться</string>
+    <string name="login_subtitle">Контролируйте обслуживание авто вовремя</string>
+    <string name="login_title">Вход в аккаунт</string>
+    <string name="login_title_hint">Введите данные, чтобы открыть ваши автомобили</string>
+    <string name="login_welcome">Трекер обслуживания</string>
+    <string name="parts_title">Расходники и запчасти</string>
+    <string name="project_id" translatable="false">autotraker-9a761</string>
+    <string name="register_agreement">Согласен с правилами хранения и обработки данных</string>
+    <string name="register_button">Зарегистрироваться</string>
+    <string name="register_button_loading">Creating account...</string>
+    <string name="register_error_agreement_required">Accept the agreement to continue</string>
+    <string name="register_error_email_exists">This email is already registered</string>
+    <string name="register_error_failed">Registration error: %1$s</string>
+    <string name="register_error_failed_generic">Could not create account, try again</string>
+    <string name="register_error_invalid_email">Enter a valid email</string>
+    <string name="register_error_name_required">Enter your name</string>
+    <string name="register_error_password_mismatch">Passwords do not match</string>
+    <string name="register_error_password_short">Password must be at least 6 characters</string>
+    <string name="register_have_account">Уже есть аккаунт?</string>
+    <string name="register_hint_email">Электронная почта</string>
+    <string name="register_hint_name">Имя пользователя</string>
+    <string name="register_hint_password">Пароль</string>
+    <string name="register_hint_repeat_password">Повторите пароль</string>
+    <string name="register_login_action">Войти</string>
+    <string name="register_profile_save_error">Account created, profile save failed: %1$s</string>
+    <string name="register_subtitle">Добавляйте авто и ведите историю обслуживания</string>
+    <string name="register_success">Registration completed</string>
+    <string name="register_title">Создание аккаунта</string>
+    <string name="register_title_form">Регистрация</string>
+    <style name="Base.Theme.TrekerAutoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/home_primary</item>
+        <item name="colorOnPrimary">@color/home_text_inverse</item>
+        <item name="colorSecondary">@color/home_accent</item>
+        <item name="colorSurface">@color/home_surface</item>
+        <item name="colorOnSurface">@color/home_text_primary</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/home_bg_end</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.TrekerAutoApp" parent="Base.Theme.TrekerAutoApp"/>
+</resources>
